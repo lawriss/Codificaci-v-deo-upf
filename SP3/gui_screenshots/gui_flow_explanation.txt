@@ -1,0 +1,18 @@
+GUI BRIEF EXPLANATION
+
+Im1, im2, im3, im4, im5:
+- 1. You first click button "SEARCH" and select a video.
+- 2. Then write the output name your file will have.
+- 3. You click the button of the action you want to perform on your selected video and video or audio output name is downloaded.
+- 4. Click "View output video" and new window opens the output path you wrote.
+
+Every time an action is done successfully, you have a message that says everything is OK.
+
+Im6:
+- When you click the "OPEN VIDEO COMPARATOR BUTTON", a new window opens and you can select a video. Finally the code didn't work so it is commented and nothing occurs.
+
+Im7: 
+- You click "X-MAS VERSION" and a message and present image button appears.
+
+Im8:
+- You click the image of the present and new window opens with a text message. 
